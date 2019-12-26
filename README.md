@@ -1,6 +1,8 @@
 # High Level Amazon S3 Client
 
 Fork from https://github.com/andrewrk/node-s3-client
+Forked this cause the readme on auth0's was incorrect.
+This can be considered the master I guess.
 
 ## Installation
 
